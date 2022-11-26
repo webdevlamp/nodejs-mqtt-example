@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mqtt-example",
+  "version": "1.0.0",
+  "description": "Example project - Pub + Sub Using NodeJS + MQTT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdevlamp/nodejs-mqtt-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdevlamp/nodejs-mqtt-example/issues"
+  },
+  "homepage": "https://github.com/webdevlamp/nodejs-mqtt-example#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7"
+  }
+}
